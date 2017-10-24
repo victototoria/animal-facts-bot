@@ -1764,6 +1764,9 @@ SALMON_FACTS = (
 	'Salmon flesh is orange due to organic pigments in their diet of krill and shellfish. Farmed salmon are fed fishmeal and wheat, which results in white flesh. Since consumers were reluctant to purchace white salmon, the pigments are added to their feed.',
 	'Salmon have an average of 2500 eggs, but can have up to 7000.',
 	'Salmon can travel up to 3500 miles to spawn.'
+	'Salmon is a common name for several species of fish in the family Salmonidae, which includes fish such as trout, char and whitefish.',
+	'Salmon is considered to be healthy due to its high amount of protein, omega-3 fatty acids and vitamin D.',
+	'In the wild, salmon are commonly eaten by animals such as bears, birds, and otters.',
 	)
 
 SCORPION_FACTS = (
