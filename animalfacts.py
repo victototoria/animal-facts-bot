@@ -464,6 +464,9 @@ ATLANTIC_PUFFIN_FACTS = (
     'The Atlantic Puffin breeds in Iceland, Norway, Greenland, Newfoundland and many North Atlantic islands, and as far south as Maine in the west and the British Isles in the east.',
     'There are considered to be three subspecies of Atlantic puffin: Fratercula arctica arctica, Fratercula arctica grabae, Fratercula arctica naumanni.',
     'Like many seabirds, the Atlantic puffin spends most of the year far from land in the open ocean and only visits coastal areas to breed.',
+    'The Atlantic Puffin is also known as the "sea parrot" or the "clowns of the sea"',
+    'The beak of the puffin changes based on the time of the year, during the winter the beak will be grey but in the spring it will be a bright orange.',
+    'The Puffin can flap its wings up to 400 times a minute, and can go 88 km an hour', 
 )
 
 BADGER_FACTS = (
