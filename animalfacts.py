@@ -1221,6 +1221,8 @@ KANGAROO_FACTS = (
     'Baby kangaroos are known as ‘joeys’. A group of kangaroos is called a ‘mob’, ‘troop’ or ‘court’.',
     'The red kangaroo is the largest marsupial in the world.',
     'Kangaroos usually live to around six years old in the wild.',
+    'Kangaroos are classified as marsupials, meaning that they carry live young in a pouch on their bodies',
+    'The kangaroo is the national animal of Australia and is seen on the Australian coat of arms and forms of currency',
     )
 
 KOALA_FACTS = (
